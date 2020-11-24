@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+
+* {
+    font-family: 'East Sea Dokdo', cursive;
+}
+.font1{
+   font-family: 'Yeon Sung', cursive; 
+}
+
+html,
+body {
+    margin: 0;
+    scroll-behavior: smooth;
+    cursor: url('/img/main/cursor.cur'), auto;
+}
+
+
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure,
+figcaption {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+* {
+    box-sizing: border-box;
+}
